@@ -1,7 +1,7 @@
 # Data Science Learning Repository
 
 <p align="center">
-  <img src="https://example.com/your-image-url.png" alt="Repository Image" width="600"/>
+  <img src="./img/img.jpg" alt="Repository Image" width="600"/>
 </p>
 
 ## 🚀 Welcome
