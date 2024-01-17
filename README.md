@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">DATA MANAGEMENT</h1>
+# <div align="center">DATA MANAGEMENT</div>
 
 <p align="center">
   <img src="./img/img.jpg" alt="Repository Image" width="900" height="450"/>
