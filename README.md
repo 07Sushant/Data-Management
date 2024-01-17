@@ -1,7 +1,7 @@
-# Data Science Learning Repository
+# DATA MANAGEMENT
 
 <p align="center">
-  <img src="./img/img.jpg" alt="Repository Image" width="600"/>
+  <img src="./img/img.jpg" alt="Repository Image" width="900"/>
 </p>
 
 ## 🚀 Welcome
