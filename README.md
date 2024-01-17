@@ -1,7 +1,7 @@
-# DATA MANAGEMENT
+<h1 style="text-align:center;">DATA MANAGEMENT</h1>
 
 <p align="center">
-  <img src="./img/img.jpg" alt="Repository Image" width="900" height="600"/>
+  <img src="./img/img.jpg" alt="Repository Image" width="900" height="450"/>
 </p>
 
 ## 🚀 Welcome
